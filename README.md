@@ -22,11 +22,11 @@
 
 [与项目相关的 Non-apache.org 域名](#与项目相关的-non-apacheorg-域名)
 
-[项目网站和 URL 原则：使用 *.apache.org](#项目项目网站和-url-原则使用-apacheorg)
+[项目网站和 URL 原则：使用 * .apache.org](#项目项目网站和-url-原则使用-apacheorg)
 
 #### 这个标题里有中文，有 English，还有标点。
 #### 与项目相关的 NON-APACHE.ORG 域名
-#### 项目网站和 URL 原则：使用 *.apache.org
+#### 项目网站和 URL 原则：使用 * .apache.org
 
 我们看到，[]里内容与标题一直，而（）里内容则将标题中的所有标点（“-”保留）都删去，而把所有空格都换成“-”，其余保持不变。
 
