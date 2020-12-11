@@ -29,7 +29,11 @@
 #### 项目网站和 URL 原则：使用 * .apache.org
 
 我们看到，[]里内容与标题一直，而（）里内容则将标题中的所有标点（“-”保留）都删去，而把所有空格都换成“-”，其余保持不变。
-其实最简单的方法是，在preview视图下，复制标题的链接，然后再粘贴到（）中，把前面的网址删去就行。
+其实最简单的方法是，在preview视图下，复制标题的链接：
+<img width="536" alt="Screen Shot 2020-12-12 at 12 34 08 AM" src="https://user-images.githubusercontent.com/69114052/101929804-48990d80-3c12-11eb-8eff-83d7dbbb946e.png">
+
+然后再粘贴到（）中，把前面的网址删去就行：
+<img width="1139" alt="Screen Shot 2020-12-12 at 12 35 01 AM" src="https://user-images.githubusercontent.com/69114052/101929703-2901e500-3c12-11eb-853b-d80d123a28c5.png">
 
 ## 2.常用字体
 
