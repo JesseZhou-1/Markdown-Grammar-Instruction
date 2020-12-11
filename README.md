@@ -34,7 +34,7 @@
 
 <img width="536" alt="Screen Shot 2020-12-12 at 12 34 08 AM" src="https://user-images.githubusercontent.com/69114052/101929804-48990d80-3c12-11eb-8eff-83d7dbbb946e.png">
 
-然后再粘贴到（）中，把前面的网址删去就行：
+然后再回到edit视图中，把复制内容粘贴到（）中，将前面的网址删去即可：
 <img width="1139" alt="Screen Shot 2020-12-12 at 12 35 01 AM" src="https://user-images.githubusercontent.com/69114052/101929703-2901e500-3c12-11eb-853b-d80d123a28c5.png">
 
 ## 2.常用字体
