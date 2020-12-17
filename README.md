@@ -20,11 +20,11 @@
 
 ### 假如这是一个目录
 
-[这个标题里有中文，有English，还有标点。](#这个标题里有中文有-English还有标点)
+[1.这个标题里有中文，有English，还有标点。](#这个标题里有中文有-English还有标点)
 
-[与项目相关的 Non-apache.org 域名](#与项目相关的-non-apacheorg-域名)
+[2.与项目相关的 Non-apache.org 域名](#与项目相关的-non-apacheorg-域名)
 
-[项目网站和 URL 原则：使用 * .apache.org](#项目网站和-url-原则使用--apacheorg)
+[3.项目网站和 URL 原则：使用 * .apache.org](#项目网站和-url-原则使用--apacheorg)
 
 #### 这个标题里有中文，有 English，还有标点。
 #### 与项目相关的 NON-APACHE.ORG 域名
